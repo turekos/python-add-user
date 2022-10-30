@@ -1,2 +1,3 @@
 # python-add-user
-add user on remote machine
+
+add user and add to group on remote machine with python
